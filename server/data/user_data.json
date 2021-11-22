@@ -1,0 +1,5 @@
+{ "type": "Doctor", "firstName": "Tom", "lastName": "Smith", "email": "test111@gmail.com", "phone": "214-220-4187", "address": "8030 Spring Valley Rd", "city": "Dallas", "state": "TX", "zipcode": "75240" } 
+{ "type": "Doctor", "firstName": "Mark", "lastName": "Wilson", "email": "test222@gmail.com", "phone": "214-219-9630", "address": "1110 E Parker Rd #110", "city": "Plano", "state": "TX", "zipcode": "75074" }
+{ "type": "Doctor", "firstName": "Patrick", "lastName": "Jacobson", "email": "test333@gmail.com", "phone": "214-219-9675", "address": "8030 Spring Valley Rd", "city": "Dallas", "state": "TX", "zipcode": "75240" } 
+{ "type": "Doctor", "firstName": "Ivan", "lastName": "Dorchsner", "email": "test444@gmail.com", "phone": "214-221-8725", "address": "1204 N Josey Ln", "city": "Carrollton", "state": "TX", "zipcode": "75006" } 
+{ "type": "Patient", "firstName": "Catherine", "lastName": "Li", "email": "test555@gmail.com", "phone": "214-221-9817", "address": "800 W. Campbell Road", "city": "Richardson", "state": "TX", "zipcode": "75080" }
